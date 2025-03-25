@@ -1,6 +1,8 @@
  # BluePay Banking Performance Dashboard
 ![Banking_Dashboard1](https://github.com/user-attachments/assets/f9842144-86d9-4fb4-96d0-4e43ffb9e939)
 >*Main landing page showing transactions, showing all industries filtered by past fy*
+
+[Link to Tableau Public Dashboard](https://public.tableau.com/app/profile/neal.alday/viz/BluePayBankingPerformanceDashboard/BankingDashboardTransactions)
 ## Project Background
   As a data analyst for **BluePay**, a full-service banking company based in Melbourne, Australia, I developed a comprehensive dashboard designed to provide key stakeholders with an at-a-glance view of essential Key Performance Indicators (KPIs). This dashboard serves as a central hub for multiple departments, enabling decision-making and performance optimization powered by data.
 
