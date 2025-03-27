@@ -104,7 +104,7 @@
 - Offer industry-specific promotions, such as cashback for grocery spending, salon service discounts, or fuel rewards, to increase spending in these sectors.
 
 **4. Increase Credit Card Issuance for Higher Revenue Potential**
--**Credit cards offer higher returns** on assets and greater merchant discount rate revenue compared to debit transactions.
+- **Credit cards offer higher returns** on assets and greater merchant discount rate revenue compared to debit transactions.
 - **Target high-spending customer segments ($15K–$20K credit limit users)** with exclusive benefits, such as increased rewards, travel perks, or reduced annual fees, to encourage greater credit card adoption.
 
 **5. Strengthen Partnerships with Mastercard**
