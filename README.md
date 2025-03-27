@@ -60,7 +60,7 @@
 
 - **Further analysis on customer segmentation and acquisition patterns can be extracted from the Transactions by Age and Gender data visual**, using the betting industry as an example:
   - Men aged 45-54 show a higher propensity to bet more frequently, but men aged 65+ have bets which are larger in value.
-  - Targeting younger demographics (ages 24-34) for airline spending could present an opportunity for revenue growth.
+  - Targeting younger demographics (ages 24-34) could present an opportunity for revenue growth.
   - This type of analysis can be applied to virtually any industry for a more comprehensive look on which customer demographics can be harnessed for targeted campaign strategies in the future.
  
 <img width="400" alt="Banking_Dashboard23" src="https://github.com/user-attachments/assets/8295d4f3-dfc9-4ee9-9017-c832dff5e9f2" />
